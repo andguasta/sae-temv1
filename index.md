@@ -1,3 +1,9 @@
+---
+title: TeMV1 - Material Page
+subtitle: "Pagina di supporto al corso Tecniche e Metodologie dei Videogiochi 1. Docente: Andrea Guastadisegni"
+cover-img: https://andguasta.github.io/sae-temv2/assets/img/Temv1-AnimalHeader1.png
+---
+
 #### Pdf di supporto alle lezioni
 
 **Lezione 1:** [pdf](assets/docs/Part1-2022.pdf)
