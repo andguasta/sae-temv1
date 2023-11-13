@@ -2,7 +2,17 @@
 
 **Lezione 1:** [pdf](assets/docs/Part1-2022.pdf)
 
--
+- - -
+<details>
+	<summary>Test</summary>
+		[GameAudioGDCPart1.torrent](https://sonniss.com/GameAudioGDC.torrent)	
+</details>
+
+<details>
+	<summary>Test2</summary>
+		<a href="https://sonniss.com/GameAudioGDC.torrent">GameAudioGDCPart1.torrent</a>
+</details>
+
 ### Librerie
 
 **Libreria Sonnis creata per la GDC**
@@ -92,7 +102,6 @@ Mirror:
 	[SonnissGDC2020AudioBundlePart13of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%202020%20-%20Game%20Audio%20Bundle%20Part13of14.zip)  
 	[SonnissGDC2020AudioBundlePart14of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%202020%20-%20Game%20Audio%20Bundle%20Part14of14.zip)
 </details>
-
 <details>
   <summary>2023</summary>  
 Torrent:
@@ -113,3 +122,46 @@ Mirror:
 	[Sonniss.com-GDC2023-GameAudioBundle14of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle14of14.zip)
 </details>
 
+- - -
+### Books
+
+**Storia dei videogiochi:**
+	**Game On!: Video Game History from Pong and Pac-Man to Mario, Minecraft, and More by Dustin Hansen**
+
+> [!info] Game On! [https://www.goodreads.com/book/show/29102835-game-on](https://www.goodreads.com/book/show/29102835-game-on)  
+
+**Storie sullo sviluppo** di alcuni tra i giochi più importanti un ottimo modo per capire come funziona l'industria:
+	**Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made by Jason Schreier**
+
+> [!info] Blood, Sweat, and Pixels [https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels](https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels)  
+
+Per gli appassionati di **Doom** o **Quake** (comunque libro ben scritto e pieno di spunti)
+	**Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture by David Kushner**
+
+> [!info] Masters of Doom [https://www.goodreads.com/book/show/222146.Masters_of_Doom](https://www.goodreads.com/book/show/222146.Masters_of_Doom)  
+
+Interessante sopratutto per gli amanti di **Nintendo**:
+	**Console Wars: Sega, Nintendo, and the Battle that Defined a Generation by Blake J. Harris**
+
+> [!info] Console Wars [https://www.goodreads.com/book/show/18505802-console-wars](https://www.goodreads.com/book/show/18505802-console-wars)  
+
+---
+### Game Audio e Sound Design
+
+Molti libri di game audio soffrono del fatto che le tecnologie cambiano rapidamente e diventano in fretta datati. Ho indicato qui sotto una serie di libri diversi tra loro ma che trattano argomenti che possono essere utili per crescere come Game Audio Sound Designers. Altri libri che mi sento di consigliare sono più tecninci e li includerò tra i libri del prossimo anno.
+
+**A Composer's Guide to Game Music by Winifred Phillips**
+> [!info]  [https://www.goodreads.com/book/show/17938880-a-composer-s-guide-to-game-music?ac=1&from_search=true&qid=pUDiBmIFcv&rank=1](https://www.goodreads.com/book/show/17938880-a-composer-s-guide-to-game-music?ac=1&from_search=true&qid=pUDiBmIFcv&rank=1)  
+
+**Sound Design: The Expressive Power of Music, Voice and Sound Effects in Cinema  
+by David Sonnenschein**
+
+> [!info] [https://www.goodreads.com/book/show/150211.Sound_Design?ac=1&from_search=true&qid=jNcMLDKJSf&rank=1](https://www.goodreads.com/book/show/150211.Sound_Design?ac=1&from_search=true&qid=jNcMLDKJSf&rank=1)  
+
+**Sound Effects Bible by Ric Viers**
+
+> [!info] [https://www.goodreads.com/book/show/5122894-the-sound-effects-bible?from_search=true&from_srp=true&qid=6WfMXfkvbZ&rank=1](https://www.goodreads.com/book/show/5122894-the-sound-effects-bible?from_search=true&from_srp=true&qid=6WfMXfkvbZ&rank=1)  
+
+Capire il game design è importante! **Level Up!: The Guide to Great Video Game Design by Scott Rogers**
+
+> [!info] [https://www.goodreads.com/book/show/8449713-level-up?from_search=true&from_srp=true&qid=yywp1mqqUW&rank=1](https://www.goodreads.com/book/show/8449713-level-up?from_search=true&from_srp=true&qid=yywp1mqqUW&rank=1)  
