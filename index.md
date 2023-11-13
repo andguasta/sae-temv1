@@ -90,8 +90,8 @@
 <details>
   <summary>2023</summary>
   - Torrent:
-  - Mirror:
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle1of14.zip  
+Mirror:
+	[1] https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle1of14.zip  
 		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle2of14.zip  
 		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle3of14.zip  
 		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle4of14.zip  
