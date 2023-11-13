@@ -8,6 +8,7 @@
 **Libreria Sonnis creata per la GDC**
 <details>
   <summary>2015</summary>
+
 - Torrent: [GameAudioGDCPart1.torrent](https://sonniss.com/GameAudioGDC.torrent)
 - Mirror: 
 	[SonnissGDC2015AudioBundlePart1of5.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%20-%20Game%20Audio%20Bundle%201of5.zip)  
@@ -18,6 +19,7 @@
 </details>
 <details>
   <summary>2016</summary>
+
 - Torrent: [GameAudioGDCPart2.torrent](https://sonniss.com/GameAudioGDCPart2.torrent)
 - Mirror:
 	[SonnissGDC2016AudioBundlePart1of6.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%202016-%20Game%20Audio%20Bundle%20Part%201of6.zip)  
@@ -29,6 +31,7 @@
 </details>
 <details>
   <summary>2017</summary>
+
 - Torrent: [GameAudioGDCPart3.torrent](https://sonniss.com/GameAudioGDCPart3.torrent)
 - Mirror:
 	[SonnissGDC2017AudioBundlePart1of9.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%202017%20-%20Game%20Audio%20Bundle%20Part%201of9.zip)  
@@ -43,6 +46,7 @@
 </details>
 <details>
   <summary>2018</summary>
+
 - Torrent: [GameAudioGDCPart4.torrent](https://sonniss.com/GameAudioGDCPart4.torrent)
 - Mirror:
 	[SonnissGDC2018AudioBundlePart1of8.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%202018%20-%20Game%20Audio%20Bundle%20Part%201of8.zip)  
@@ -56,6 +60,7 @@
 </details>
 <details>
   <summary>2019</summary>
+
 - Torrent: [GameAudioGDCPart5.torrent](https://sonniss.com/GameAudioGDCPart5.torrent)
 - Mirror:
 	[SonnissGDC2019AudioBundlePart1of8.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%202019%20-%20Game%20Audio%20Bundle%20Part%201of8.zip)  
@@ -69,6 +74,7 @@
 </details>
 <details>
   <summary>2020</summary>
+
 - Torrent: [GameAudioGDCPart6.torrent](https://sonniss.com/GameAudioGDCPart6.torrent)
 - Mirror:
 	[SonnissGDC2020AudioBundlePart1of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com%20-%20GDC%202020%20-%20Game%20Audio%20Bundle%20Part1of14.zip)  
@@ -88,21 +94,22 @@
 </details>
 
 <details>
-  <summary>2023</summary>
-  - Torrent:
-Mirror:
-	[1] https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle1of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle2of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle3of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle4of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle5of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle6of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle7of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle8of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle9of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle10of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle11of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle12of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle13of14.zip  
-		https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle14of14.zip
+  <summary>2023</summary>  
+- Torrent:
+- Mirror:
+	[Sonniss.com-GDC2023-GameAudioBundle1of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle1of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle2of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle2of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle3of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle3of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle4of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle4of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle5of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle5of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle6of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle6of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle7of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle7of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle8of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle8of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle9of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle9of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle10of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle10of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle11of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle11of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle12of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle12of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle13of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle13of14.zip)  
+	[Sonniss.com-GDC2023-GameAudioBundle14of14.zip](https://hephaestus.feralhosting.com/sonniss/Sonniss.com-GDC2023-GameAudioBundle14of14.zip)
 </details>
+
