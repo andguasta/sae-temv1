@@ -99,4 +99,4 @@ Capire il game design è importante! **Level Up!: The Guide to Great Video Game 
 ### Talks
 
 Talk con **Michael Semanick**, Re-recording mixer di The Social Network, di cui ho parlato in classe. Intorno a 1:00:00 c'è la scena del club a cui facevo riferimento.
-https://soundworkscollection.com/post/michaelsemanick
+[Michael Semanick Re-Recording Mixer Presentation](https://soundworkscollection.com/post/michaelsemanick)
