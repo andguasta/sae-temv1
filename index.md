@@ -93,3 +93,10 @@ by David Sonnenschein**
 Capire il game design è importante! **Level Up!: The Guide to Great Video Game Design by Scott Rogers**
 
 > [!info] [https://www.goodreads.com/book/show/8449713-level-up?from_search=true&from_srp=true&qid=yywp1mqqUW&rank=1](https://www.goodreads.com/book/show/8449713-level-up?from_search=true&from_srp=true&qid=yywp1mqqUW&rank=1)  
+
+- - -
+
+### Talks
+
+Talk con **Michael Semanick**, Re-recording mixer di The Social Network, di cui ho parlato in classe. Intorno a 1:00:00 c'è la scena del club a cui facevo riferimento.
+https://soundworkscollection.com/post/michaelsemanick
