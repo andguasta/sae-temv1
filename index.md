@@ -10,6 +10,8 @@ cover-img: https://andguasta.github.io/sae-temv1/assets/img/Temv1-AnimalHeader2.
 **Lezione 2:** [pdf](assets/docs/Part2-2022.pdf)
 - - -
 **Cube Game Audio Document:** [pdf](assets/docs/TeMV1-2324-CubeGameAudioDocument.pdf)
+**Cube Audio Notes Example:** [pdf](assets/docs/TeMV1-2324-CubeAudioNotesExample.pdf)
+**Foglio xlsx Eventi:** [file](assets/docs/TMV1-S1-CubeListaEventiTemplate.xlsx)
 - - -
 ### Librerie
 
